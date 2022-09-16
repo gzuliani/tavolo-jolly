@@ -1,5 +1,5 @@
-From: "arbitri.figh" <arbitri@figh.it>
-To: <gianfranco.zuliani@gmail.com>
+From: Arbitri FIGH
+To: Gianfranco Zuliani
 Subject: Manuale del refertista
 Date: Fri, 9 Sep 2022 09:11:39 +0200
 
@@ -12,9 +12,9 @@ Rimango a disposizione per eventuali chiarimenti e porgo cordiali saluti.
 
 ----Messaggio originale-----
 
-Da: Gianfranco Zuliani <gianfranco.zuliani@gmail.com>
+Da: Gianfranco Zuliani
 Inviato: venerdì 2 settembre 2022 13:57
-A: office@figh.it <mailto:office@figh.it>
+A: Office FIGH
 Oggetto: Manuale del refertista
 
 Buongiorno,
@@ -25,4 +25,3 @@ individuarlo tra la documentazione disponibile sul Vostro portale.
 
 Cordiali saluti,
 Gianfranco Zuliani
-
